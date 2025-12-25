@@ -1,0 +1,14 @@
+
+.bg-color{
+    background-color: black;
+}
+.custom-nav-link{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 20px;
+}
+.text-color{
+    color: darkred;
+    font-size: 20px;
+}
